@@ -6,7 +6,7 @@ import { sortingCharactersZA } from "./data.js";
 
 
 const divCharacters = document.getElementById("charactersInfo");
-const hogwartzlogo = "./images/hogwartzlogo.png";
+const hogwartzlogo = "images/hogwartzlogo.png";
 
 /* despliega la data */
 function displayPersonajes(personajes) {
